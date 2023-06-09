@@ -36,7 +36,7 @@ Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memili
 
 ## Daftar Kartu
 
-### \* Tipe Penyerang
+* ### Tipe Penyerang
 
 1.  Steal the Spotlight
 
