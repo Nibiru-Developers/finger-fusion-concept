@@ -10,14 +10,18 @@ Finger Fusion merupakan sebuah permainan papan arena strategi yang sedang dikemb
 2. Pada awal permainan, pemain dan lawan masing-masing memiliki sepuluh kartu di tangan.
 3. Pada awal permainan, pemain dan lawan masing-masing memiliki seratus poin kehidupan.
 4. Urutan giliran pertama dan kedua akan ditentukan dengan melempar koin.
-5. Zona pemain, baik zona A maupun zona B, dapat menyerang zona musuh. Misalnya, jika pemain menyerang zona B milik lawan yang memiliki power satu dengan zona A yang memiliki power satu, maka lawan akan menerima satu damage sehingga mengurangi poin kehidupan lawan sebanyak satu. Selain itu, power pada zona B lawan yang sebelumnya diserang akan bertambah satu sehingga menjadi dua.
+5. Zona pemain, baik zona A maupun zona B, dapat menyerang zona musuh. Misalnya, jika pemain menyerang zona B milik lawan yang memiliki power satu dengan zona A yang memiliki power satu, maka lawan akan menerima satu damage sehingga mengurangi poin kehidupannya sebanyak satu. Selain itu, power pada zona B lawan yang sebelumnya diserang akan bertambah satu, sehingga menjadi dua.
 6. Ketika suatu zona dengan power empat diserang oleh zona dengan power dua, zona yang sebelumnya memiliki power empat akan menjadi satu karena apabila power melebihi lima, maka akan dikurangi sebesar lima.
 7. Jika suatu zona mencapai power lima, maka zona tersebut akan hancur.
 8. Ketika hanya ada satu zona yang bertahan di arena dan zona tersebut memiliki power genap (empat atau dua), maka zona tersebut dapat membelah dirinya, memberikan setengah powernya kepada zona di sebelahnya yang telah hancur.
 9. Terdapat tiga jenis kartu dalam permainan ini, yaitu kartu Penyerang, Bertahan, dan Hybrid.
-10. Kartu Penyerang hanya bisa diaktifkan di giliran pemain, kartu Bertahan hanya bisa diaktifkan di giliran lawan, dan kartu Hybrid bisa diaktifkan di giliran pemain maupun lawan.
-11. Jika poin kehidupan pemain berkurang hingga menjadi nol, maka pemain akan langsung dinyatakan kalah.
-12. Jika kedua zona pemain hancur, maka pemain akan langsung dinyatakan kalah.
+10. Setiap kartu memiliki biaya pengaktifkan masing-masing, di mana biaya tersebut akan mengurangi poin kehidupan pemain yang menggunakannya.
+11. Terdapat dua fase dalam suatu giliran, yaitu fase Persiapan dan fase Penyerangan.
+12. Kartu tipe Penyerang hanya bisa diaktifkan pada giliran pemain dalam fase Persiapan.
+13. Kartu tipe Bertahan hanya bisa diaktifkan pada giliran lawan dalam fase Penyerangan.
+14. Kartu tipe Hybrid bisa diaktifkan pada giliran pemain dalam fase Persiapan dan giliran lawan dalam fase Penyerangan.
+15. Jika poin kehidupan pemain berkurang hingga menjadi nol, maka pemain akan langsung dinyatakan kalah.
+16. Jika kedua zona pemain hancur, maka pemain akan langsung dinyatakan kalah.
 
 ## Beberapa Hal Penting:
 
@@ -30,3 +34,13 @@ Poin Kehidupan merupakan salah satu faktor kunci dalam menentukan kemenangan. Ap
 **Kartu**:
 Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memiliki efek unik yang berbeda. Dengan menggunakan efek kartu yang tepat pada saat yang tepat, situasi permainan dapat berubah dengan cepat. Setiap pemain dapat membawa hingga sepuluh kartu dalam setiap permainan.
 
+## Daftar Kartu
+
+### \* Tipe Penyerang
+
+1.  Steal the Spotlight
+
+    <div style="border: 1px solid #ccc; border-radius: 4px; padding: 10px; margin-bottom: 15px;">
+      <p style="margin: 0px;"><b>Efek:</b> Lawan akan melewati giliran setelah giliran ini.</p>
+      <p style="margin: 0px;"><b>Biaya:</b> Biaya: 10 Poin Kehidupan.</p>
+    </div>
