@@ -46,7 +46,7 @@ Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memili
 
 - ### Tipe Penyerang
 
-  | Kartu               | Efek                                                                                                  | Biaya             |
+  | Nama Kartu          | Efek                                                                                                  | Biaya             |
   | ------------------- | ----------------------------------------------------------------------------------------------------- | ----------------- |
   | Steal the Spotlight | Lawan akan melewati giliran setelah ini.                                                              | 10 Poin Kehidupan |
   | Swap Surprise       | Pilih satu zona milik Anda dan satu zona milik lawan sebagai target, lalu tukar nilai power keduanya. | 5 Poin Kehidupan  |
@@ -55,7 +55,16 @@ Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memili
 
 - ### Tipe Bertahan
 
-  | Kartu            | Efek                                                                   | Biaya             |
+  | Nama Kartu       | Efek                                                                   | Biaya             |
   | ---------------- | ---------------------------------------------------------------------- | ----------------- |
   | Attack Repellent | Batalkan serangan lawan pada giliran ini dan segera akhiri gilirannya. | 5 Poin Kehidupan  |
   | Negation Wave    | Lawan tidak akan dapat mengaktifkan kartu pada giliran berikutnya.     | 10 Poin Kehidupan |
+
+- ### Tipe Hybrid
+
+  | Nama Kartu          | Efek                                                                                                       | Biaya                                                                   |
+  | ------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+  | Double Trouble      | Target salah satu zona lawan, jika power pada zona tersebut bernilai 1 atau 2, powernya akan digandakan.   | 5 Poin Kehidupan                                                        |
+  | Plus One Power      | Target salah satu zona Anda, jika power pada zona tersebut tidak bernilai 4, tambahkan powernya 1.         | 5 Poin Kehidupan                                                        |
+  | Reflection Tactics  | Pilih satu kartu yang sudah pernah Anda gunakan sebelumnya, salin efek kartu tersebut.                     | Biaya Kartu Yang Disalin + 5 Poin Kehidupan                             |
+  | Rekindle the Spirit | Jika Anda hanya memiliki satu zona yang tersisa, bangkitkan zona Anda yang lain dengan membawa satu power. | Fase Persiapan (5 Poin Kehidupan), Fase Penyerangan (10 Poin Kehidupan) |
