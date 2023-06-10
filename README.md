@@ -51,3 +51,11 @@ Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memili
   | Steal the Spotlight | Lawan akan melewati giliran setelah ini.                                                              | 10 Poin Kehidupan |
   | Swap Surprise       | Pilih satu zona milik Anda dan satu zona milik lawan sebagai target, lalu tukar nilai power keduanya. | 5 Poin Kehidupan  |
   | Healing Wave        | Memulihkan 10 Poin Kehidupan.                                                                         | 0 Poin Kehidupan  |
+  | Wrathful Strike     | Berikan 10 Damage kepada lawan.                                                                       | 5 Poin Kehidupan  |
+
+- ### Tipe Bertahan
+
+  | Kartu            | Efek                                                                   | Biaya             |
+  | ---------------- | ---------------------------------------------------------------------- | ----------------- |
+  | Attack Repellent | Batalkan serangan lawan pada giliran ini dan segera akhiri gilirannya. | 5 Poin Kehidupan  |
+  | Negation Wave    | Lawan tidak akan dapat mengaktifkan kartu pada giliran berikutnya.     | 10 Poin Kehidupan |
