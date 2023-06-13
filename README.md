@@ -46,27 +46,28 @@ Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memili
 
 - ### Tipe Penyerang
 
-  | Nama Kartu          | Efek                                                                                                  | Biaya             |
-  | ------------------- | ----------------------------------------------------------------------------------------------------- | ----------------- |
-  | Steal the Spotlight | Lawan akan melewati giliran setelah ini.                                                              | 10 Poin Kehidupan |
-  | Swap Surprise       | Pilih satu zona milik Anda dan satu zona milik lawan sebagai target, lalu tukar nilai power keduanya. | 5 Poin Kehidupan  |
-  | Wrathful Strike     | Berikan 10 Damage kepada lawan.                                                                       | 5 Poin Kehidupan  |
-  | Healing Wave        | Memulihkan 10 Poin Kehidupan untuk Anda dan 5 Poin Kehidupan untuk lawan.                             | 0 Poin Kehidupan  |
-  | Restorative Aura    | Memulihkan 5 Poin Kehidupan pada giliran anda selanjutnya.                                            | 0 Poin Kehidupan  |
+  | Nama Kartu          | Efek                                                                                                  | Tier | Biaya             |
+  | ------------------- | ----------------------------------------------------------------------------------------------------- | ---- | ----------------- |
+  | Steal the Spotlight | Lawan akan melewati giliran setelah ini.                                                              | A    | 10 Poin Kehidupan |
+  | Swap Surprise       | Pilih satu zona milik Anda dan satu zona milik lawan sebagai target, lalu tukar nilai power keduanya. | B    | 4 Poin Kehidupan  |
+  | Wrathful Strike     | Berikan 10 Damage kepada lawan.                                                                       | C    | 8 Poin Kehidupan  |
+  | Healing Wave        | Memulihkan 10 Poin Kehidupan untuk Anda dan 3 Poin Kehidupan untuk lawan.                             | A    | 2 Poin Kehidupan  |
+  | Restorative Aura    | Memulihkan 5 Poin Kehidupan pada giliran anda selanjutnya.                                            | C    | 2 Poin Kehidupan  |
 
 - ### Tipe Bertahan
 
-  | Nama Kartu       | Efek                                                                   | Biaya             |
-  | ---------------- | ---------------------------------------------------------------------- | ----------------- |
-  | Attack Repellent | Batalkan serangan lawan pada giliran ini dan segera akhiri gilirannya. | 5 Poin Kehidupan  |
-  | Negation Wave    | Lawan tidak akan dapat mengaktifkan kartu pada giliran berikutnya.     | 10 Poin Kehidupan |
-  | Zone Annihilation    | Jika lawan memiliki 2 Zona aktif, hancurkan satu zona lawan dengan power terkecil.     | 5 Poin Kehidupan |
+  | Nama Kartu          | Efek                                                                                           | Tier | Biaya            |
+  | ------------------- | ---------------------------------------------------------------------------------------------- | ---- | ---------------- |
+  | Attack Repellent    | Batalkan serangan lawan pada giliran ini dan segera akhiri gilirannya.                         | B    | 5 Poin Kehidupan |
+  | Negation Wave       | Kartu tidak akan bisa diaktifkan pada giliran lawan berikutnya.                                | A    | 7 Poin Kehidupan |
+  | Zone Annihilation   | Jika lawan memiliki 2 Zona aktif, hancurkan satu zona lawan dengan power terkecil.             | B    | 5 Poin Kehidupan |
+  | Regenerative Impact | Serangan di giliran ini akan memberikan pemulihan Poin Kehidupan alih-alih mendapatkan damage. | C    | 4 Poin Kehidupan |
 
 - ### Tipe Hybrid
 
-  | Nama Kartu          | Efek                                                                                                       | Biaya                                                                   |
-  | ------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-  | Double Trouble      | Target salah satu zona lawan, jika power pada zona tersebut bernilai 1 atau 2, powernya akan digandakan.   | 5 Poin Kehidupan                                                        |
-  | Plus One Power      | Target salah satu zona Anda, jika power pada zona tersebut tidak bernilai 4, tambahkan powernya 1.         | 5 Poin Kehidupan                                                        |
-  | Reflection Tactics  | Pilih satu kartu yang sudah pernah Anda gunakan sebelumnya, salin efek kartu tersebut.                     | Biaya Kartu Yang Disalin + 5 Poin Kehidupan                             |
-  | Rekindle the Spirit | Jika Anda hanya memiliki satu zona yang tersisa, bangkitkan zona Anda yang lain dengan membawa satu power. | Fase Persiapan (5 Poin Kehidupan), Fase Penyerangan (10 Poin Kehidupan) |
+  | Nama Kartu          | Efek                                                                                                       | Tier | Biaya                                                                  |
+  | ------------------- | ---------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------- |
+  | Double Trouble      | Target salah satu zona lawan, jika power pada zona tersebut bernilai 1 atau 2, powernya akan digandakan.   | C    | 4 Poin Kehidupan                                                       |
+  | Plus One Power      | Target salah satu zona Anda, jika power pada zona tersebut tidak bernilai 4, tambahkan powernya 1.         | C    | 4 Poin Kehidupan                                                       |
+  | Reflection Tactics  | Pilih satu kartu yang sudah pernah Anda gunakan sebelumnya, salin efek kartu tersebut.                     | A    | Biaya Kartu Yang Disalin + 3 Poin Kehidupan                            |
+  | Rekindle the Spirit | Jika Anda hanya memiliki satu zona yang tersisa, bangkitkan zona Anda yang lain dengan membawa satu power. | B    | Fase Persiapan (4 Poin Kehidupan), Fase Penyerangan (8 Poin Kehidupan) |
