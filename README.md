@@ -24,8 +24,9 @@ Finger Fusion merupakan sebuah permainan papan arena strategi yang sedang dikemb
 12. Kartu tipe Penyerang hanya bisa diaktifkan pada giliran pemain dalam fase Persiapan.
 13. Kartu tipe Bertahan hanya bisa diaktifkan pada giliran lawan dalam fase Penyerangan.
 14. Kartu tipe Hybrid bisa diaktifkan pada giliran pemain dalam fase Persiapan dan giliran lawan dalam fase Penyerangan.
-15. Jika kedua zona pemain hancur, pemain memiliki opsi untuk mengorbankan 20 Poin Kehidupan guna membangkitkan kembali satu zona pemain. Jika pemain tidak memilih opsi tersebut, maka pemain akan langsung dinyatakan kalah.
-16. Jika poin kehidupan pemain berkurang hingga menjadi nol, maka pemain akan langsung dinyatakan kalah.
+15. Pemain hanya dapat membawa maksimal satu kartu Tier S, tiga kartu Tier A, dan tidak ada batasan untuk kartu Tier B dan C.
+16. Jika kedua zona pemain hancur, pemain memiliki opsi untuk mengorbankan 20 Poin Kehidupan guna membangkitkan kembali satu zona pemain. Jika pemain tidak memilih opsi tersebut, maka pemain akan langsung dinyatakan kalah.
+17. Jika poin kehidupan pemain berkurang hingga menjadi nol, maka pemain akan langsung dinyatakan kalah.
 
 ---
 
