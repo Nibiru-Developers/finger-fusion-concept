@@ -65,7 +65,7 @@ Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memili
   | Attack Repellent    | Batalkan serangan lawan pada giliran ini dan segera akhiri gilirannya.                                            | B    | 5 Poin Kehidupan |
   | Zone Annihilation   | Jika lawan memiliki 2 Zona aktif, hancurkan satu zona lawan dengan power terkecil.                                | B    | 6 Poin Kehidupan |
   | Negation Wave       | Kartu tidak akan bisa diaktifkan pada giliran lawan berikutnya.                                                   | A    | 7 Poin Kehidupan |
-  | Regenerative Impact | Serangan di giliran ini akan memberikan pemulihan Poin Kehidupan alih-alih mendapatkan damage.                    | C    | 4 Poin Kehidupan |
+  | Regenerative Impact | Serangan di giliran ini akan memberikan pemulihan Poin Kehidupan alih-alih mendapatkan damage.                    | C    | 6 Poin Kehidupan |
   | Soul Drainer        | Memulihkan 3 Poin Kehidupan untuk anda, kemudian memberikan 10 damage untuk lawan.                                | S    | 0 Poin Kehidupan |
   | Impervious Barrier  | Tiap kali zona milik anda akan hancur oleh serangan, zona tersebut tidak akan hancur dan powernya akan menjadi 1, lalu memulihkan 2 Poin Kehidupan. | A    | 6 Poin Kehidupan |
 
