@@ -56,6 +56,7 @@ Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memili
   | Swap Surprise       | Pilih satu zona milik anda dan satu zona milik lawan sebagai target, lalu tukar nilai power keduanya.                                       | B    | 4 Poin Kehidupan |
   | Twin Blades of Ruin | Damage dari serangan pada giliran ini akan digandakan.                                                                                      | B    | 5 Poin Kehidupan |
   | Restorative Aura    | Memulihkan 5 Poin Kehidupan pada giliran anda selanjutnya.                                                                                  | C    | 2 Poin Kehidupan |
+  | First Aid           | Memulihkan Poin Kehidupan sebanyak jumlah kartu yang anda aktifkan pada giliran ini.                                                        | C    | 2 Poin Kehidupan |
   | Wrathful Strike     | Berikan 5 Damage kepada lawan.                                                                                                              | C    | 3 Poin Kehidupan |
 
 - ### Tipe Bertahan
@@ -67,6 +68,8 @@ Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memili
   | Impervious Barrier | Tiap kali zona milik anda akan hancur oleh serangan, zona tersebut tidak akan hancur dan powernya akan menjadi 1, lalu memulihkan 2 Poin Kehidupan. | A    | 8 Poin Kehidupan |
   | Attack Repellent   | Batalkan serangan lawan pada giliran ini dan segera akhiri gilirannya.                                                                              | A    | 9 Poin Kehidupan |
   | Zone Annihilation  | Jika lawan memiliki 2 Zona aktif, hancurkan satu zona lawan dengan power terkecil.                                                                  | B    | 6 Poin Kehidupan |
+  | Pain Reducer       | Semua damage yang diterima akan dikurangi 1.                                                                                                        | C    | 1 Poin Kehidupan |
+  | Give & Take      | Memulihkan Poin Kehidupan sejumlah power dari zona anda yang hancur di giliran ini.                                                                 | C    | 2 Poin Kehidupan |
 
 - ### Tipe Hybrid
 
