@@ -65,9 +65,9 @@ Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memili
   | Attack Repellent    | Batalkan serangan lawan pada giliran ini dan segera akhiri gilirannya.                                            | B    | 5 Poin Kehidupan |
   | Zone Annihilation   | Jika lawan memiliki 2 Zona aktif, hancurkan satu zona lawan dengan power terkecil.                                | B    | 6 Poin Kehidupan |
   | Negation Wave       | Kartu tidak akan bisa diaktifkan pada giliran lawan berikutnya.                                                   | A    | 7 Poin Kehidupan |
-  | Regenerative Impact | Serangan di giliran ini akan memberikan pemulihan Poin Kehidupan alih-alih mendapatkan damage.                    | C    | 4 Poin Kehidupan |
+  | Regenerative Impact | Serangan di giliran ini akan memberikan pemulihan Poin Kehidupan alih-alih mendapatkan damage.                    | C    | 6 Poin Kehidupan |
   | Soul Drainer        | Memulihkan 3 Poin Kehidupan untuk anda, kemudian memberikan 10 damage untuk lawan.                                | S    | 0 Poin Kehidupan |
-  | Impervious Barrier  | Tiap kali zona milik anda akan hancur oleh serangan, zona tersebut tidak akan hancur dan powernya akan menjadi 1. | A    | 6 Poin Kehidupan |
+  | Impervious Barrier  | Tiap kali zona milik anda akan hancur oleh serangan, zona tersebut tidak akan hancur dan powernya akan menjadi 1, lalu memulihkan 2 Poin Kehidupan. | A    | 6 Poin Kehidupan |
 
 - ### Tipe Hybrid
 
@@ -77,7 +77,7 @@ Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memili
   | Plus One Power          | Target salah satu zona anda, jika power pada zona tersebut tidak bernilai 4, tambahkan powernya 1.         | C    | 4 Poin Kehidupan                                                      |
   | Reflection Tactics      | Pilih satu kartu yang sudah pernah anda gunakan sebelumnya, salin efek kartu tersebut.                     | A    | Biaya Kartu Yang Disalin + 2 Poin Kehidupan                           |
   | Rekindle the Spirit     | Jika anda hanya memiliki satu zona yang tersisa, bangkitkan zona anda yang lain dengan membawa satu power. | B    | Fase Strategi (5 Poin Kehidupan), Fase Penyerangan (7 Poin Kehidupan) |
-  | Infinite Revitalization | Memulihkan 1 Poin Kehidupan setiap masuk giliran anda.                                                     | B    | 6 Poin Kehidupan                                                      |
+  | Infinite Revitalization | Memulihkan 1 Poin Kehidupan setiap masuk giliran anda.                                                     | B    | 7 Poin Kehidupan                                                      |
   | Deadly Poison           | Memberikan 2 damage kepada lawan selama 5 giliran lawan ke depan.                                          | B    | 5 Poin Kehidupan                                                      |
 
 ## Biaya Kartu:
