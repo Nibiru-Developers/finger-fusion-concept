@@ -47,16 +47,16 @@ Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memili
 
 - ### Tipe Penyerang
 
-  | Nama Kartu          | Efek                                                                                                  | Tier | Biaya            |
-  | ------------------- | ----------------------------------------------------------------------------------------------------- | ---- | ---------------- |
-  | Steal the Spotlight | Lawan akan melewati giliran setelah ini.                                                              | A    | 8 Poin Kehidupan |
-  | Swap Surprise       | Pilih satu zona milik anda dan satu zona milik lawan sebagai target, lalu tukar nilai power keduanya. | B    | 4 Poin Kehidupan |
-  | Wrathful Strike     | Berikan 10 Damage kepada lawan.                                                                       | C    | 8 Poin Kehidupan |
-  | Healing Wave        | Memulihkan 10 Poin Kehidupan untuk anda dan 3 Poin Kehidupan untuk lawan.                             | A    | 2 Poin Kehidupan |
-  | Restorative Aura    | Memulihkan 5 Poin Kehidupan pada giliran anda selanjutnya.                                            | C    | 2 Poin Kehidupan |
-  | Rampage of Ruin     | Target salah satu zona lawan, hancurkan zona tersebut.                                                | S    | 0 Poin Kehidupan |
-  | Triple Strike       | Anda dapat menyerang 3 kali pada giliran ini, namun damage untuk setiap serangan akan dikurangi 1.    | S    | 0 Poin Kehidupan |
-  | Twin Blades of Ruin | Damage dari serangan pada giliran ini akan digandakan.                                                | A    | 5 Poin Kehidupan |
+  | Nama Kartu          | Efek                                                                                                                                        | Tier | Biaya            |
+  | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------- |
+  | Rampage of Ruin     | Target salah satu zona lawan, hancurkan zona tersebut, lalu lawan akan memulihkan Poin Kehidupan setara dengan power dari zona yang hancur. | S    | 0 Poin Kehidupan |
+  | Triple Strike       | Anda dapat menyerang 3 kali pada giliran ini, namun damage untuk setiap serangan akan dikurangi 1.                                          | S    | 0 Poin Kehidupan |
+  | Steal the Spotlight | Lawan akan melewati giliran setelah ini.                                                                                                    | A    | 8 Poin Kehidupan |
+  | Twin Blades of Ruin | Damage dari serangan pada giliran ini akan digandakan.                                                                                      | A    | 5 Poin Kehidupan |
+  | Healing Wave        | Memulihkan 10 Poin Kehidupan untuk anda dan 3 Poin Kehidupan untuk lawan.                                                                   | A    | 2 Poin Kehidupan |
+  | Swap Surprise       | Pilih satu zona milik anda dan satu zona milik lawan sebagai target, lalu tukar nilai power keduanya.                                       | B    | 4 Poin Kehidupan |
+  | Wrathful Strike     | Berikan 10 Damage kepada lawan.                                                                                                             | C    | 8 Poin Kehidupan |
+  | Restorative Aura    | Memulihkan 5 Poin Kehidupan pada giliran anda selanjutnya.                                                                                  | C    | 2 Poin Kehidupan |
 
 - ### Tipe Bertahan
 
@@ -79,3 +79,10 @@ Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memili
   | Rekindle the Spirit     | Jika anda hanya memiliki satu zona yang tersisa, bangkitkan zona anda yang lain dengan membawa satu power. | B    | Fase Strategi (5 Poin Kehidupan), Fase Penyerangan (7 Poin Kehidupan) |
   | Infinite Revitalization | Memulihkan 1 Poin Kehidupan setiap masuk giliran anda.                                                     | B    | 6 Poin Kehidupan                                                      |
   | Deadly Poison           | Memberikan 2 damage kepada lawan selama 5 giliran lawan ke depan.                                          | B    | 5 Poin Kehidupan                                                      |
+
+## Biaya Kartu:
+
+- 0: Dimiliki oleh kartu dengan efek yang sangat kuat. Hanya dan sudah pasti dimiliki oleh kartu dengan Tier S.
+- 1 - 4: Dimiliki oleh kartu dengan efek yang tidak terlalu kuat dan terbilang biasa saja. Biasanya kartu Tier B dan C.
+- 5 - 8: Dimiliki oleh kartu dengan efek yang cukup kuat dan lumayan penting untuk jelannya pertandingan. Biasanya kartu Tier A dan B.
+- 9 - 10: Dimiliki oleh kartu dengan efek yang kuat dan dapat dengan mudah mempengaruhi jalannya pertandingan. Biasanya kartu Tier S.
