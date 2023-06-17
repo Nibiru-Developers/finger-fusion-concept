@@ -24,7 +24,7 @@ Finger Fusion merupakan sebuah permainan papan arena strategi yang sedang dikemb
 12. Kartu tipe Penyerang hanya bisa diaktifkan pada giliran pemain dalam fase Strategi pemain.
 13. Kartu tipe Bertahan hanya bisa diaktifkan pada giliran lawan dalam fase Penyerangan lawan.
 14. Kartu tipe Hybrid bisa diaktifkan pada giliran pemain dalam fase Strategi dan giliran lawan dalam fase Penyerangan.
-15. Pemain hanya dapat membawa maksimal satu kartu Tier S, tiga kartu Tier A, dan tidak ada batasan untuk kartu Tier B dan C.
+15. Pemain hanya dapat membawa maksimal satu kartu Tier S, empat kartu Tier A, dan tidak ada batasan untuk kartu Tier B dan C.
 16. Jika kedua zona pemain hancur, pemain memiliki opsi untuk mengorbankan 20 Poin Kehidupan guna membangkitkan kembali satu zona pemain. Jika pemain tidak memilih opsi tersebut, maka pemain akan langsung dinyatakan kalah.
 17. Jika poin kehidupan pemain berkurang hingga menjadi nol, maka pemain akan langsung dinyatakan kalah.
 
@@ -52,37 +52,36 @@ Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memili
   | Rampage of Ruin     | Target salah satu zona lawan, hancurkan zona tersebut, lalu lawan akan memulihkan Poin Kehidupan setara dengan power dari zona yang hancur. | S    | 0 Poin Kehidupan |
   | Triple Strike       | Anda dapat menyerang 3 kali pada giliran ini, namun damage untuk setiap serangan akan dikurangi 1.                                          | S    | 0 Poin Kehidupan |
   | Steal the Spotlight | Lawan akan melewati giliran setelah ini.                                                                                                    | A    | 8 Poin Kehidupan |
-  | Twin Blades of Ruin | Damage dari serangan pada giliran ini akan digandakan.                                                                                      | A    | 5 Poin Kehidupan |
-  | Healing Wave        | Memulihkan 10 Poin Kehidupan untuk anda dan 3 Poin Kehidupan untuk lawan.                                                                   | A    | 2 Poin Kehidupan |
+  | Healing Wave        | Memulihkan 15 Poin Kehidupan untuk anda.                                                                                                    | A    | 9 Poin Kehidupan |
   | Swap Surprise       | Pilih satu zona milik anda dan satu zona milik lawan sebagai target, lalu tukar nilai power keduanya.                                       | B    | 4 Poin Kehidupan |
-  | Wrathful Strike     | Berikan 10 Damage kepada lawan.                                                                                                             | C    | 8 Poin Kehidupan |
+  | Twin Blades of Ruin | Damage dari serangan pada giliran ini akan digandakan.                                                                                      | B    | 5 Poin Kehidupan |
   | Restorative Aura    | Memulihkan 5 Poin Kehidupan pada giliran anda selanjutnya.                                                                                  | C    | 2 Poin Kehidupan |
+  | Wrathful Strike     | Berikan 5 Damage kepada lawan.                                                                                                              | C    | 3 Poin Kehidupan |
 
 - ### Tipe Bertahan
 
-  | Nama Kartu          | Efek                                                                                                              | Tier | Biaya            |
-  | ------------------- | ----------------------------------------------------------------------------------------------------------------- | ---- | ---------------- |
-  | Attack Repellent    | Batalkan serangan lawan pada giliran ini dan segera akhiri gilirannya.                                            | B    | 5 Poin Kehidupan |
-  | Zone Annihilation   | Jika lawan memiliki 2 Zona aktif, hancurkan satu zona lawan dengan power terkecil.                                | B    | 6 Poin Kehidupan |
-  | Negation Wave       | Kartu tidak akan bisa diaktifkan pada giliran lawan berikutnya.                                                   | A    | 7 Poin Kehidupan |
-  | Regenerative Impact | Serangan di giliran ini akan memberikan pemulihan Poin Kehidupan alih-alih mendapatkan damage.                    | C    | 6 Poin Kehidupan |
-  | Soul Drainer        | Memulihkan 3 Poin Kehidupan untuk anda, kemudian memberikan 10 damage untuk lawan.                                | S    | 0 Poin Kehidupan |
-  | Impervious Barrier  | Tiap kali zona milik anda akan hancur oleh serangan, zona tersebut tidak akan hancur dan powernya akan menjadi 1, lalu memulihkan 2 Poin Kehidupan. | A    | 6 Poin Kehidupan |
+  | Nama Kartu         | Efek                                                                                                                                                | Tier | Biaya            |
+  | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------- |
+  | Soul Drainer       | Memulihkan 3 Poin Kehidupan untuk anda, kemudian memberikan 10 damage untuk lawan. Anda akan menerima 1 damage dalam 5 giliran anda ke depan.       | S    | 0 Poin Kehidupan |
+  | Negation Wave      | Kartu tidak akan bisa diaktifkan pada giliran lawan berikutnya.                                                                                     | A    | 7 Poin Kehidupan |
+  | Impervious Barrier | Tiap kali zona milik anda akan hancur oleh serangan, zona tersebut tidak akan hancur dan powernya akan menjadi 1, lalu memulihkan 2 Poin Kehidupan. | A    | 8 Poin Kehidupan |
+  | Attack Repellent   | Batalkan serangan lawan pada giliran ini dan segera akhiri gilirannya.                                                                              | A    | 9 Poin Kehidupan |
+  | Zone Annihilation  | Jika lawan memiliki 2 Zona aktif, hancurkan satu zona lawan dengan power terkecil.                                                                  | B    | 6 Poin Kehidupan |
 
 - ### Tipe Hybrid
 
-  | Nama Kartu              | Efek                                                                                                       | Tier | Biaya                                                                 |
-  | ----------------------- | ---------------------------------------------------------------------------------------------------------- | ---- | --------------------------------------------------------------------- |
-  | Double Trouble          | Target salah satu zona lawan, jika power pada zona tersebut bernilai 1 atau 2, powernya akan digandakan.   | C    | 4 Poin Kehidupan                                                      |
-  | Plus One Power          | Target salah satu zona anda, jika power pada zona tersebut tidak bernilai 4, tambahkan powernya 1.         | C    | 4 Poin Kehidupan                                                      |
-  | Reflection Tactics      | Pilih satu kartu yang sudah pernah anda gunakan sebelumnya, salin efek kartu tersebut.                     | A    | Biaya Kartu Yang Disalin + 2 Poin Kehidupan                           |
-  | Rekindle the Spirit     | Jika anda hanya memiliki satu zona yang tersisa, bangkitkan zona anda yang lain dengan membawa satu power. | B    | Fase Strategi (5 Poin Kehidupan), Fase Penyerangan (7 Poin Kehidupan) |
-  | Infinite Revitalization | Memulihkan 1 Poin Kehidupan setiap masuk giliran anda.                                                     | B    | 7 Poin Kehidupan                                                      |
-  | Deadly Poison           | Memberikan 2 damage kepada lawan selama 5 giliran lawan ke depan.                                          | B    | 5 Poin Kehidupan                                                      |
+  | Nama Kartu              | Efek                                                                                                                                                  | Tier | Biaya                                                                 |
+  | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | --------------------------------------------------------------------- |
+  | Reflection Tactics      | Pilih satu kartu yang sudah pernah anda gunakan sebelumnya, salin efek kartu tersebut. Jika anda menyalin kartu Tier S, anda akan menerima 10 damage. | A    | Biaya Kartu Yang Disalin + 2 Poin Kehidupan                           |
+  | Rekindle the Spirit     | Jika anda hanya memiliki satu zona yang tersisa, bangkitkan zona anda yang lain dengan membawa satu power.                                            | B    | Fase Strategi (5 Poin Kehidupan), Fase Penyerangan (7 Poin Kehidupan) |
+  | Deadly Poison           | Memberikan 2 damage kepada lawan selama 5 giliran lawan ke depan.                                                                                     | B    | 6 Poin Kehidupan                                                      |
+  | Infinite Revitalization | Memulihkan 1 Poin Kehidupan setiap masuk giliran anda.                                                                                                | B    | 7 Poin Kehidupan                                                      |
+  | Plus One Power          | Target salah satu zona anda, jika power pada zona tersebut tidak bernilai 4, tambahkan powernya 1.                                                    | C    | 3 Poin Kehidupan                                                      |
+  | Double Trouble          | Target salah satu zona lawan, jika power pada zona tersebut bernilai 1 atau 2, powernya akan digandakan.                                              | C    | 4 Poin Kehidupan                                                      |
 
 ## Biaya Kartu:
 
 - 0: Dimiliki oleh kartu dengan efek yang sangat kuat. Hanya dan sudah pasti dimiliki oleh kartu dengan Tier S.
 - 1 - 4: Dimiliki oleh kartu dengan efek yang tidak terlalu kuat dan terbilang biasa saja. Biasanya kartu Tier B dan C.
-- 5 - 8: Dimiliki oleh kartu dengan efek yang cukup kuat dan lumayan penting untuk jelannya pertandingan. Biasanya kartu Tier A dan B.
-- 9 - 10: Dimiliki oleh kartu dengan efek yang kuat dan dapat dengan mudah mempengaruhi jalannya pertandingan. Biasanya kartu Tier S.
+- 5 - 7: Dimiliki oleh kartu dengan efek yang cukup kuat dan lumayan penting untuk jelannya pertandingan. Biasanya kartu Tier A dan B.
+- 8 - 10: Dimiliki oleh kartu dengan efek yang kuat dan dapat dengan mudah mempengaruhi jalannya pertandingan. Biasanya kartu Tier A.
