@@ -24,9 +24,10 @@ Finger Fusion merupakan sebuah permainan papan arena strategi yang sedang dikemb
 12. Kartu tipe Penyerang hanya bisa diaktifkan pada giliran pemain dalam fase Strategi pemain.
 13. Kartu tipe Bertahan hanya bisa diaktifkan pada giliran lawan dalam fase Penyerangan lawan.
 14. Kartu tipe Hybrid bisa diaktifkan pada giliran pemain dalam fase Strategi dan giliran lawan dalam fase Penyerangan.
-15. Pemain hanya dapat membawa maksimal satu kartu Tier S, empat kartu Tier A, dan tidak ada batasan untuk kartu Tier B dan C.
-16. Jika kedua zona pemain hancur, pemain memiliki opsi untuk mengorbankan 20 Poin Kehidupan guna membangkitkan kembali satu zona pemain. Jika pemain tidak memilih opsi tersebut, maka pemain akan langsung dinyatakan kalah.
-17. Jika poin kehidupan pemain berkurang hingga menjadi nol, maka pemain akan langsung dinyatakan kalah.
+15. Poin Aktivasi secara otomatis akan bertambah 1 setiap kali masuk ke giliran pemain. Jumlah maksimal tumpukan Poin Aktivasi adalah 5.
+16. Pemain hanya dapat membawa maksimal satu kartu Tier S, empat kartu Tier A, dan tidak ada batasan untuk kartu Tier B dan C.
+17. Jika kedua zona pemain hancur, pemain memiliki opsi untuk mengorbankan 20 Poin Kehidupan guna membangkitkan kembali satu zona pemain. Jika pemain tidak memilih opsi tersebut, maka pemain akan langsung dinyatakan kalah.
+18. Jika poin kehidupan pemain berkurang hingga menjadi nol, maka pemain akan langsung dinyatakan kalah.
 
 ---
 
@@ -40,6 +41,9 @@ Poin Kehidupan merupakan salah satu faktor kunci dalam menentukan kemenangan. Ap
 
 **Kartu**:
 Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memiliki efek unik yang berbeda. Dengan menggunakan efek kartu yang tepat pada saat yang tepat, situasi permainan dapat berubah dengan cepat. Setiap pemain dapat membawa hingga sepuluh kartu dalam setiap permainan.
+
+**Poin Aktivasi**:
+Poin Aktivasi merupakan poin yang digunakan untuk mengaktifkan kartu-kartu tertentu. Setiap kali giliran pemain dimulai, secara otomatis pemain akan mendapatkan 1 Poin Aktivasi. Jumlah Poin Aktivasi yang diperlukan untuk mengaktifkan sebuah kartu bergantung pada tier kartu yang akan diaktifkan tersebut. Jumlah Poin Aktivasi yang dapat ditumpuk adalah 5.
 
 ---
 
@@ -69,7 +73,7 @@ Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memili
   | Attack Repellent   | Batalkan serangan lawan pada giliran ini dan segera akhiri gilirannya.                                                                              | A    | 9 Poin Kehidupan |
   | Zone Annihilation  | Jika lawan memiliki 2 Zona aktif, hancurkan satu zona lawan dengan power terkecil.                                                                  | B    | 6 Poin Kehidupan |
   | Pain Reducer       | Semua damage yang diterima akan dikurangi 1.                                                                                                        | C    | 1 Poin Kehidupan |
-  | Give & Take      | Memulihkan Poin Kehidupan sejumlah power dari zona anda yang hancur di giliran ini.                                                                 | C    | 2 Poin Kehidupan |
+  | Give & Take        | Memulihkan Poin Kehidupan sejumlah power dari zona anda yang hancur di giliran ini.                                                                 | C    | 2 Poin Kehidupan |
 
 - ### Tipe Hybrid
 
@@ -82,9 +86,20 @@ Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memili
   | Plus One Power          | Target salah satu zona anda, jika power pada zona tersebut tidak bernilai 4, tambahkan powernya 1.                                                    | C    | 3 Poin Kehidupan                                                      |
   | Double Trouble          | Target salah satu zona lawan, jika power pada zona tersebut bernilai 1 atau 2, powernya akan digandakan.                                              | C    | 4 Poin Kehidupan                                                      |
 
+---
+
 ## Biaya Kartu:
 
 - 0: Dimiliki oleh kartu dengan efek yang sangat kuat. Hanya dan sudah pasti dimiliki oleh kartu dengan Tier S.
 - 1 - 4: Dimiliki oleh kartu dengan efek yang tidak terlalu kuat dan terbilang biasa saja. Biasanya kartu Tier B dan C.
 - 5 - 7: Dimiliki oleh kartu dengan efek yang cukup kuat dan lumayan penting untuk jelannya pertandingan. Biasanya kartu Tier A dan B.
 - 8 - 10: Dimiliki oleh kartu dengan efek yang kuat dan dapat dengan mudah mempengaruhi jalannya pertandingan. Biasanya kartu Tier A.
+
+---
+
+## Biaya Poin Aktivasi:
+
+- Kartu Tier S: 3 Poin Aktivasi.
+- Kartu Tier A: 2 Poin Aktivasi.
+- Kartu Tier B: 1 Poin Aktivasi.
+- Kartu Tier C: 1 Poin Aktivasi.
