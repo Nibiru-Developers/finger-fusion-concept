@@ -77,14 +77,16 @@ Poin Aktivasi merupakan poin yang digunakan untuk mengaktifkan kartu-kartu terte
 
 - ### Tipe Hybrid
 
-  | Nama Kartu              | Efek                                                                                                                                                  | Tier | Biaya                                                                 |
-  | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | --------------------------------------------------------------------- |
-  | Reflection Tactics      | Pilih satu kartu yang sudah pernah anda gunakan sebelumnya, salin efek kartu tersebut. Jika anda menyalin kartu Tier S, anda akan menerima 10 damage. | A    | Biaya Kartu Yang Disalin + 2 Poin Kehidupan                           |
-  | Rekindle the Spirit     | Jika anda hanya memiliki satu zona yang tersisa, bangkitkan zona anda yang lain dengan membawa satu power.                                            | B    | Fase Strategi (5 Poin Kehidupan), Fase Penyerangan (7 Poin Kehidupan) |
-  | Deadly Poison           | Memberikan 2 damage kepada lawan selama 5 giliran lawan ke depan.                                                                                     | B    | 6 Poin Kehidupan                                                      |
-  | Infinite Revitalization | Memulihkan 1 Poin Kehidupan setiap masuk giliran anda.                                                                                                | B    | 7 Poin Kehidupan                                                      |
-  | Plus One Power          | Target salah satu zona anda, jika power pada zona tersebut tidak bernilai 4, tambahkan powernya 1.                                                    | C    | 3 Poin Kehidupan                                                      |
-  | Double Trouble          | Target salah satu zona lawan, jika power pada zona tersebut bernilai 1 atau 2, powernya akan digandakan.                                              | C    | 4 Poin Kehidupan                                                      |
+  | Nama Kartu               | Efek                                                                                                                                                  | Tier | Biaya                                                                 |
+  | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | --------------------------------------------------------------------- |
+  | Reflection Tactics       | Pilih satu kartu yang sudah pernah anda gunakan sebelumnya, salin efek kartu tersebut. Jika anda menyalin kartu Tier S, anda akan menerima 10 damage. | A    | Biaya Kartu Yang Disalin + 2 Poin Kehidupan                           |
+  | Rekindle the Spirit      | Jika anda hanya memiliki satu zona yang tersisa, bangkitkan zona anda yang lain dengan membawa satu power.                                            | B    | Fase Strategi (5 Poin Kehidupan), Fase Penyerangan (7 Poin Kehidupan) |
+  | Inner Energy Refill      | Mendapatkan 3 Poin Aktivasi.                                                                                                                          | B    | 5 Poin Kehidupan                                                      |
+  | Deadly Poison            | Memberikan 2 damage kepada lawan selama 5 giliran lawan ke depan.                                                                                     | B    | 6 Poin Kehidupan                                                      |
+  | Infinite Revitalization  | Memulihkan 1 Poin Kehidupan setiap masuk giliran anda.                                                                                                | B    | 7 Poin Kehidupan                                                      |
+  | Inner Energy Refill Lite | Mendapatkan 2 Poin Aktivasi.                                                                                                                          | C    | 3 Poin Kehidupan                                                      |
+  | Plus One Power           | Target salah satu zona anda, jika power pada zona tersebut tidak bernilai 4, tambahkan powernya 1.                                                    | C    | 3 Poin Kehidupan                                                      |
+  | Double Trouble           | Target salah satu zona lawan, jika power pada zona tersebut bernilai 1 atau 2, powernya akan digandakan.                                              | C    | 4 Poin Kehidupan                                                      |
 
 ---
 
