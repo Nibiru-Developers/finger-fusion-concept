@@ -4,7 +4,7 @@
 
 ## Penjelasan Singkat:
 
-Finger Fusion merupakan sebuah permainan papan arena strategi yang sedang dikembangkan oleh [Andry Pebrianto](https://github.com/andry-pebrianto). Dalam permainan ini, pemain harus menghancurkan kedua zona lawan atau menghabiskan poin kehidupan lawan untuk meraih kemenangan. Pemain juga dapat menggunakan kartu-kartu dengan berbagai efek unik untuk mendukung permainannya.
+Finger Fusion merupakan sebuah permainan papan arena strategi yang sedang dikembangkan oleh [Andry Pebrianto](https://github.com/andry-pebrianto). Dalam permainan ini, pemain harus menghancurkan kedua zona lawan atau menghabiskan poin kehidupan lawan untuk meraih kemenangan. Pemain juga dituntut agar terampil dalam menggunakan kartu-kartu efek untuk mendukung permainannya.
 
 ---
 
@@ -51,9 +51,9 @@ Poin Aktivasi merupakan poin yang digunakan untuk mengaktifkan kartu-kartu terte
 
 - ### Tipe Penyerang
 
-  | Nama Kartu          | Efek                                                                                                                                        | Tier | Biaya            |
-  | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------- |
-  | Rampage of Ruin     | Target salah satu zona lawan, hancurkan zona tersebut, lalu lawan akan memulihkan Poin Kehidupan setara dengan power dari zona yang hancur. | S    | 0 Poin Kehidupan |
+  | Nama Kartu          | Efek                                                                                                                                        | Tier | Biaya            | Ilustrasi                                                        |
+  | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------- | ---------------------------------------------------------------- |
+  | Rampage of Ruin     | Target salah satu zona lawan, hancurkan zona tersebut, lalu lawan akan memulihkan Poin Kehidupan setara dengan power dari zona yang hancur. | S    | 0 Poin Kehidupan | <img src="./assets/rampage-of-ruin.webp" alt="" width="250px" /> |
   | Triple Strike       | Anda dapat menyerang 3 kali pada giliran ini, namun damage untuk setiap serangan akan dikurangi 1.                                          | S    | 0 Poin Kehidupan |
   | Steal the Spotlight | Lawan akan melewati giliran setelah ini.                                                                                                    | A    | 8 Poin Kehidupan |
   | Healing Wave        | Memulihkan 15 Poin Kehidupan untuk anda.                                                                                                    | A    | 9 Poin Kehidupan |
