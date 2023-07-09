@@ -63,7 +63,7 @@ Poin Aktivasi merupakan poin yang digunakan untuk mengaktifkan kartu-kartu terte
   | Twin Blades of Ruin | Damage dari serangan pada giliran ini akan digandakan.                                                                                      | B    | 5 Poin Kehidupan |
   | Restorative Aura    | Memulihkan 5 Poin Kehidupan pada giliran anda selanjutnya.                                                                                  | C    | 2 Poin Kehidupan |
   | First Aid           | Memulihkan Poin Kehidupan sebanyak jumlah kartu yang anda aktifkan pada giliran ini.                                                        | C    | 2 Poin Kehidupan |
-  | Wrathful Strike     | Berikan 5 Damage kepada lawan.                                                                                                              | C    | 3 Poin Kehidupan | <img src="./assets/wrathful-strike.webp" alt="" width="200px" /> |
+  | Wrathful Strike     | Berikan 5 Damage kepada lawan.                                                                                                              | C    | 3 Poin Kehidupan | <img src="./assets/wrathful-strike2.webp" alt="" width="200px" /> |
 
 - ### Tipe Bertahan
 
