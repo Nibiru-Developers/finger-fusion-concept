@@ -26,9 +26,10 @@ Finger Fusion merupakan sebuah permainan papan arena strategi yang sedang dikemb
 14. Setiap kartu memiliki Biaya Pengaktifan masing-masing, di mana biaya tersebut akan mengurangi poin kehidupan pemain yang menggunakannya.
 15. Setiap kartu membutuhkan Poin Aktivasi agar dapat diaktifkan.
 16. Poin aktivasi secara otomatis akan bertambah 1 setiap kali masuk ke giliran pemain. Jumlah maksimal tumpukan Poin aktivasi adalah lima.
-17. Pemain hanya dapat membawa maksimal satu kartu Tier S, empat kartu Tier A, dan tidak ada batasan untuk kartu Tier B dan C.
-18. Jika kedua zona pemain hancur, pemain memiliki opsi untuk mengorbankan 20 poin kehidupan untuk membangkitkan kembali satu zona pemain. Jika pemain tidak memilih opsi tersebut, maka pemain akan langsung dinyatakan kalah.
-19. Jika poin kehidupan pemain berkurang hingga menjadi nol, maka pemain akan langsung dinyatakan kalah.
+17. Pemain akan mendapatkan 1 poin aktivasi setiap kali mengaktifkan kartu dengan tier A dan/atau tier S, dengan maksimal poin yang bisa diterima adalah 3 poin aktivasi sepanjang permainan.
+18. Pemain hanya dapat membawa maksimal satu kartu Tier S, empat kartu Tier A, dan tidak ada batasan untuk kartu Tier B dan C.
+19. Jika kedua zona pemain hancur, pemain memiliki opsi untuk mengorbankan 20 poin kehidupan untuk membangkitkan kembali satu zona pemain. Jika pemain tidak memilih opsi tersebut, maka pemain akan langsung dinyatakan kalah.
+20. Jika poin kehidupan pemain berkurang hingga menjadi nol, maka pemain akan langsung dinyatakan kalah.
 
 ---
 
