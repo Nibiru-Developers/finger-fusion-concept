@@ -53,52 +53,52 @@ Poin Aktivasi merupakan poin yang digunakan untuk mengaktifkan kartu-kartu terte
 
 - ### Tipe Penyerang
 
-  | Nama Kartu          | Efek                                                                                                                                        | Tier | Biaya            | Ilustrasi                                                        |
-  | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------- | ---------------------------------------------------------------- |
-  | Rampage of Ruin     | Target salah satu zona lawan, hancurkan zona tersebut, lalu lawan akan memulihkan Poin Kehidupan setara dengan power dari zona yang hancur. | S    | 0 Poin Kehidupan | <img src="./assets/rampage-of-ruin.webp" alt="" width="200px" /> |
+  | Nama Kartu          | Efek                                                                                                                                        | Tier | Biaya            | Ilustrasi                                                         |
+  | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------- | ----------------------------------------------------------------- |
+  | Rampage of Ruin     | Target salah satu zona lawan, hancurkan zona tersebut, lalu lawan akan memulihkan Poin Kehidupan setara dengan power dari zona yang hancur. | S    | 0 Poin Kehidupan | <img src="./assets/rampage-of-ruin.webp" alt="" width="200px" />  |
   | Triple Strike       | Anda dapat menyerang 3 kali pada giliran ini, namun damage untuk setiap serangan akan dikurangi 1.                                          | S    | 0 Poin Kehidupan |
-  | Steal the Spotlight | Lawan akan melewati giliran setelah ini.                                                                                                    | A    | 8 Poin Kehidupan |
-  | Healing Wave        | Memulihkan 15 Poin Kehidupan untuk anda.                                                                                                    | A    | 9 Poin Kehidupan | <img src="./assets/healing-wave.webp" alt="" width="200px" />    |
-  | Swap Surprise       | Pilih satu zona milik anda dan satu zona milik lawan sebagai target, lalu tukar nilai power keduanya.                                       | B    | 4 Poin Kehidupan |
-  | Twin Blades of Ruin | Damage dari serangan pada giliran ini akan digandakan.                                                                                      | B    | 5 Poin Kehidupan |
+  | Healing Wave        | Memulihkan 15 Poin Kehidupan untuk anda.                                                                                                    | A    | 7 Poin Kehidupan | <img src="./assets/healing-wave.webp" alt="" width="200px" />     |
+  | Steal the Spotlight | Lawan akan melewati giliran selanjutnya.                                                                                                    | A    | 6 Poin Kehidupan |
+  | Twin Blades of Ruin | Damage dari serangan pada giliran ini akan digandakan.                                                                                      | B    | 4 Poin Kehidupan |
+  | Swap Surprise       | Pilih satu zona milik anda dan satu zona milik lawan sebagai target, lalu tukar nilai power keduanya.                                       | B    | 3 Poin Kehidupan |
+  | Wrathful Strike     | Berikan 5 Damage kepada lawan.                                                                                                              | B    | 3 Poin Kehidupan | <img src="./assets/wrathful-strike2.webp" alt="" width="200px" /> |
   | Restorative Aura    | Memulihkan 5 Poin Kehidupan pada giliran anda selanjutnya.                                                                                  | C    | 2 Poin Kehidupan |
   | First Aid           | Memulihkan Poin Kehidupan sebanyak jumlah kartu yang anda aktifkan pada giliran ini.                                                        | C    | 2 Poin Kehidupan |
-  | Wrathful Strike     | Berikan 5 Damage kepada lawan.                                                                                                              | C    | 3 Poin Kehidupan | <img src="./assets/wrathful-strike2.webp" alt="" width="200px" /> |
 
 - ### Tipe Bertahan
 
   | Nama Kartu         | Efek                                                                                                                                                                                       | Tier | Biaya            | Ilustrasi                                                          |
   | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | ---------------- | ------------------------------------------------------------------ |
   | Soul Drainer       | Memulihkan 3 Poin Kehidupan untuk anda, kemudian memberikan 10 damage untuk lawan. Anda akan menerima 1 damage hingga 5 giliran anda ke depan.                                             | S    | 0 Poin Kehidupan |
+  | Attack Repellent   | Batalkan serangan lawan pada giliran ini dan segera akhiri gilirannya.                                                                                                                     | A    | 8 Poin Kehidupan |
   | Negation Wave      | Kartu tidak akan bisa diaktifkan pada giliran lawan berikutnya.                                                                                                                            | A    | 7 Poin Kehidupan |
-  | Impervious Barrier | Tiap kali zona milik anda akan hancur oleh serangan, zona tersebut tidak akan hancur dan powernya akan menjadi 1, lalu memulihkan 2 Poin Kehidupan.                                        | A    | 8 Poin Kehidupan |
-  | Attack Repellent   | Batalkan serangan lawan pada giliran ini dan segera akhiri gilirannya.                                                                                                                     | A    | 9 Poin Kehidupan |
-  | Dimensional Clash  | Jika lawan menyerang zona anda dan zona anda hancur, zona lawan yang menyerang juga akan hancur. Jika zona anda tidak hancur, lawan akan mendapatkan damage setara serangannya sebelumnya. | A    | 7 Poin Kehidupan | <img src="./assets/dimensional-clash.webp" alt="" width="200px" /> |
-  | Zone Annihilation  | Jika lawan memiliki 2 Zona aktif, hancurkan satu zona lawan dengan power terkecil.                                                                                                         | B    | 6 Poin Kehidupan | <img src="./assets/zone-annihilation.webp" alt="" width="200px" /> |
-  | Pain Reducer       | Semua damage yang diterima akan dikurangi 1.                                                                                                                                               | C    | 1 Poin Kehidupan |
+  | Impervious Barrier | Tiap kali zona milik anda akan hancur oleh serangan, zona tersebut tidak akan hancur dan powernya akan menjadi 1, lalu memulihkan 2 Poin Kehidupan.                                        | A    | 7 Poin Kehidupan |
+  | Dimensional Clash  | Jika lawan menyerang zona anda dan zona anda hancur, zona lawan yang menyerang juga akan hancur. Jika zona anda tidak hancur, lawan akan mendapatkan damage setara serangannya sebelumnya. | A    | 6 Poin Kehidupan | <img src="./assets/dimensional-clash.webp" alt="" width="200px" /> |
+  | Zone Annihilation  | Jika lawan memiliki 2 zona aktif, hancurkan satu zona lawan dengan power terkecil.                                                                                                         | B    | 5 Poin Kehidupan | <img src="./assets/zone-annihilation.webp" alt="" width="200px" /> |
   | Give & Take        | Memulihkan Poin Kehidupan sejumlah power dari zona anda yang hancur di giliran ini.                                                                                                        | C    | 2 Poin Kehidupan |
+  | Pain Reducer       | Semua damage yang diterima dari seranan akan dikurangi 1.                                                                                                                                  | C    | 1 Poin Kehidupan |
 
 - ### Tipe Hybrid
 
-  | Nama Kartu               | Efek                                                                                                                                                  | Tier | Biaya                                                                                    | Ilustrasi                                                          |
-  | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-  | Reflection Tactics       | Pilih satu kartu yang sudah pernah anda gunakan sebelumnya, salin efek kartu tersebut. Jika anda menyalin kartu Tier S, anda akan menerima 10 damage. | A    | Biaya Kartu Yang Disalin <br/> + <br /> 2 Poin Kehidupan                                 | <img src="./assets/reflection-tactic.webp" alt="" width="200px" /> |
-  | Rekindle the Spirit      | Jika anda hanya memiliki satu zona yang tersisa, bangkitkan zona anda yang lain dengan membawa satu power.                                            | B    | Fase Strategi <br /> (5 Poin Kehidupan), <br/> Fase Penyerangan <br/> (7 Poin Kehidupan) |
+  | Nama Kartu               | Efek                                                                                                                                                  | Tier | Biaya                                                                                    | Ilustrasi                                                            |
+  | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+  | Reflection Tactics       | Pilih satu kartu yang sudah pernah anda gunakan sebelumnya, salin efek kartu tersebut. Jika anda menyalin kartu Tier S, anda akan menerima 10 damage. | A    | Biaya Kartu Yang Disalin <br/> + <br /> 1 Poin Kehidupan                                 | <img src="./assets/reflection-tactic.webp" alt="" width="200px" />   |
+  | Rekindle the Spirit      | Jika anda hanya memiliki satu zona yang tersisa, bangkitkan zona anda yang lain dengan membawa satu power.                                            | B    | Fase Strategi <br /> (3 Poin Kehidupan), <br/> Fase Penyerangan <br/> (5 Poin Kehidupan) | <img src="./assets/rekindle-the-spirit.webp" alt="" width="200px" /> |
   | Inner Energy Refill      | Mendapatkan 3 Poin Aktivasi.                                                                                                                          | B    | 5 Poin Kehidupan                                                                         |
-  | Deadly Poison            | Memberikan 2 damage kepada lawan selama 5 giliran lawan ke depan.                                                                                     | B    | 6 Poin Kehidupan                                                                         |
-  | Infinite Revitalization  | Memulihkan 1 Poin Kehidupan setiap masuk giliran anda.                                                                                                | B    | 7 Poin Kehidupan                                                                         |
-  | Inner Energy Refill Lite | Mendapatkan 2 Poin Aktivasi.                                                                                                                          | C    | 3 Poin Kehidupan                                                                         |
-  | Plus One Power           | Target salah satu zona anda, jika power pada zona tersebut tidak bernilai 4, tambahkan powernya 1.                                                    | C    | 3 Poin Kehidupan                                                                         | <img src="./assets/plus-one-power.webp" alt="" width="200px" />    |
-  | Double Trouble           | Target salah satu zona lawan, jika power pada zona tersebut bernilai 1 atau 2, powernya akan digandakan.                                              | C    | 4 Poin Kehidupan                                                                         |
+  | Deadly Poison            | Memberikan 2 damage kepada lawan selama 5 giliran lawan ke depan.                                                                                     | B    | 5 Poin Kehidupan                                                                         |
+  | Infinite Revitalization  | Memulihkan 1 Poin Kehidupan setiap masuk giliran anda selama 10 giliran anda ke depan.                                                                | B    | 4 Poin Kehidupan                                                                         |
+  | Inner Energy Refill Lite | Mendapatkan 1 Poin Aktivasi.                                                                                                                          | C    | 2 Poin Kehidupan                                                                         |
+  | Plus One Power           | Target salah satu zona anda, jika power pada zona tersebut tidak bernilai 4, tambahkan powernya 1.                                                    | C    | 2 Poin Kehidupan                                                                         | <img src="./assets/plus-one-power.webp" alt="" width="200px" />      |
+  | Double Trouble           | Target salah satu zona lawan, jika power pada zona tersebut bernilai 1 atau 2, powernya akan digandakan.                                              | C    | 2 Poin Kehidupan                                                                         |
 
 ---
 
 ## Biaya Kartu:
 
 - 0: Dimiliki oleh kartu dengan efek yang sangat kuat. Hanya dan sudah pasti dimiliki oleh kartu dengan Tier S.
-- 1 - 4: Dimiliki oleh kartu dengan efek yang tidak terlalu kuat dan terbilang biasa saja. Biasanya kartu Tier B dan C.
-- 5 - 7: Dimiliki oleh kartu dengan efek yang cukup kuat dan lumayan penting untuk jelannya pertandingan. Biasanya kartu Tier A dan B.
-- 8 - 10: Dimiliki oleh kartu dengan efek yang kuat dan dapat dengan mudah mempengaruhi jalannya pertandingan. Biasanya kartu Tier A.
+- 1 - 2: Dimiliki oleh kartu dengan efek yang tidak terlalu kuat dan terbilang biasa saja. Biasanya kartu Tier C.
+- 3 - 5: Dimiliki oleh kartu dengan efek yang cukup kuat dan lumayan penting untuk jalannya pertandingan. Biasanya kartu Tier B.
+- 6 - 10: Dimiliki oleh kartu dengan efek yang kuat dan dapat dengan mudah mempengaruhi jalannya pertandingan. Biasanya kartu Tier A.
 
 ---
 
