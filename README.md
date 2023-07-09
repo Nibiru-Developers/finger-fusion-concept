@@ -57,12 +57,12 @@ Poin Aktivasi merupakan poin yang digunakan untuk mengaktifkan kartu-kartu terte
   | Rampage of Ruin     | Target salah satu zona lawan, hancurkan zona tersebut, lalu lawan akan memulihkan Poin Kehidupan setara dengan power dari zona yang hancur. | S    | 0 Poin Kehidupan | <img src="./assets/rampage-of-ruin.webp" alt="" width="250px" /> |
   | Triple Strike       | Anda dapat menyerang 3 kali pada giliran ini, namun damage untuk setiap serangan akan dikurangi 1.                                          | S    | 0 Poin Kehidupan |
   | Steal the Spotlight | Lawan akan melewati giliran setelah ini.                                                                                                    | A    | 8 Poin Kehidupan |
-  | Healing Wave        | Memulihkan 15 Poin Kehidupan untuk anda.                                                                                                    | A    | 9 Poin Kehidupan | <img src="./assets/healing-wave.webp" alt="" width="250px" /> |
+  | Healing Wave        | Memulihkan 15 Poin Kehidupan untuk anda.                                                                                                    | A    | 9 Poin Kehidupan | <img src="./assets/healing-wave.webp" alt="" width="250px" />    |
   | Swap Surprise       | Pilih satu zona milik anda dan satu zona milik lawan sebagai target, lalu tukar nilai power keduanya.                                       | B    | 4 Poin Kehidupan |
   | Twin Blades of Ruin | Damage dari serangan pada giliran ini akan digandakan.                                                                                      | B    | 5 Poin Kehidupan |
   | Restorative Aura    | Memulihkan 5 Poin Kehidupan pada giliran anda selanjutnya.                                                                                  | C    | 2 Poin Kehidupan |
   | First Aid           | Memulihkan Poin Kehidupan sebanyak jumlah kartu yang anda aktifkan pada giliran ini.                                                        | C    | 2 Poin Kehidupan |
-  | Wrathful Strike     | Berikan 5 Damage kepada lawan.                                                                                                              | C    | 3 Poin Kehidupan |
+  | Wrathful Strike     | Berikan 5 Damage kepada lawan.                                                                                                              | C    | 3 Poin Kehidupan | <img src="./assets/wrathful-strike.webp" alt="" width="250px" /> |
 
 - ### Tipe Bertahan
 
