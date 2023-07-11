@@ -76,7 +76,7 @@ Poin Aktivasi merupakan poin yang digunakan untuk mengaktifkan kartu-kartu terte
   | Dimensional Clash  | Jika lawan menyerang zona anda dan zona anda hancur, zona lawan yang menyerang juga akan hancur. Jika zona anda tidak hancur, lawan akan mendapatkan damage setara serangannya sebelumnya. | A    | 6 Poin Kehidupan | <img src="./assets/dimensional-clash.webp" alt="" width="200px" /> |
   | Zone Annihilation  | Jika lawan memiliki 2 zona aktif, hancurkan satu zona lawan dengan power terkecil.                                                                                                         | B    | 5 Poin Kehidupan | <img src="./assets/zone-annihilation.webp" alt="" width="200px" /> |
   | Give & Take        | Memulihkan Poin Kehidupan sejumlah power dari zona anda yang hancur di giliran ini.                                                                                                        | C    | 2 Poin Kehidupan |
-  | Pain Reducer       | Semua damage yang diterima dari seranan akan dikurangi 1.                                                                                                                                  | C    | 1 Poin Kehidupan |
+  | Pain Reducer       | Semua damage yang diterima dari seranan akan dikurangi 1.                                                                                                                                  | C    | 1 Poin Kehidupan | <img src="./assets/pain-reducer.webp" alt="" width="200px" /> |
 
 - ### Tipe Hybrid
 
