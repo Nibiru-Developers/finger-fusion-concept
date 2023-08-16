@@ -10,26 +10,44 @@ Finger Fusion merupakan sebuah permainan papan arena strategi yang sedang dikemb
 
 ## Tata Cara dan Aturan Permainan:
 
-1. Pada awal permainan, pemain dan lawan memiliki dua Zona, di sebelah kiri (A) dan di sebelah kanan (B) dengan masing-masing memiliki satu power.
-2. Pada awal permainan, pemain dan lawan masing-masing mambawa sepuluh Kartu di tangan.
-3. Pada awal permainan, pemain dan lawan masing-masing memiliki seratus Poin Kehidupan.
-4. Urutan giliran pertama dan kedua akan ditentukan dengan melempar koin.
-5. Zona pemain, baik zona A maupun zona B, dapat menyerang zona milik lawan. Misalnya jika pemain dengan zona A miliknya yang memiliki satu power menyerang zona B milik lawan yang memiliki dua power, maka lawan akan menerima satu damage sehingga mengurangi poin kehidupannya sebanyak satu. Selain itu, power pada zona B lawan yang sebelumnya diserang akan bertambah satu, sehingga menjadi tiga.
-6. Ketika suatu zona dengan empat power diserang oleh zona dengan dua power, zona yang sebelumnya memiliki empat power akan menjadi satu karena apabila power melebihi lima setelah kalkulasi penyerangan, maka akan dikurangi sebesar lima.
-7. Jika suatu zona memiliki lima power, maka zona tersebut akan hancur.
-8. Ketika hanya ada satu zona yang bertahan di arena dan zona tersebut memiliki power genap (empat atau dua), maka zona tersebut dapat membelah dirinya, memberikan setengah powernya kepada zona di sebelahnya yang telah hancur.
-9. Terdapat tiga jenis kartu dalam permainan ini, yaitu kartu Penyerang, Bertahan, dan Hybrid.
-10. Terdapat dua Fase dalam suatu giliran, yaitu fase Strategi dan fase Penyerangan.
-11. Kartu tipe penyerang hanya bisa diaktifkan pada giliran pemain dalam fase strategi pemain.
-12. Kartu tipe bertahan hanya bisa diaktifkan pada giliran lawan dalam fase penyerangan lawan.
-13. Kartu tipe hybrid bisa diaktifkan pada giliran pemain dalam fase strategi dan giliran lawan dalam fase penyerangan.
-14. Setiap kartu memiliki Biaya Pengaktifan masing-masing, di mana biaya tersebut akan mengurangi poin kehidupan pemain yang menggunakannya.
-15. Setiap kartu membutuhkan Poin Aktivasi agar dapat diaktifkan.
-16. Poin aktivasi secara otomatis akan bertambah 1 setiap kali masuk ke giliran pemain. Jumlah maksimal tumpukan Poin aktivasi adalah lima.
-17. Pemain akan mendapatkan 1 poin aktivasi setiap kali mengaktifkan kartu dengan tier A dan/atau tier S, dengan maksimal poin yang bisa diterima adalah 3 poin aktivasi sepanjang permainan.
-18. Pemain hanya dapat membawa maksimal satu kartu Tier S, empat kartu Tier A, dan tidak ada batasan untuk kartu Tier B dan C.
-19. Jika kedua zona pemain hancur, pemain memiliki opsi untuk mengorbankan 20 poin kehidupan untuk membangkitkan kembali satu zona pemain. Jika pemain tidak memilih opsi tersebut, maka pemain akan langsung dinyatakan kalah.
-20. Jika poin kehidupan pemain berkurang hingga menjadi nol, maka pemain akan langsung dinyatakan kalah.
+1. Pada awal permainan, pemain dan lawan memiliki _**2 Zona**_, di sebelah _**Kiri (Zona A)**_ dan di sebelah _**Kanan (Zona B)**_ dengan masing-masing memiliki _**1 Kekuatan**_.
+2. Pada awal permainan, pemain dan lawan masing-masing mambawa _**10 Kartu**_ di tangan, tidak boleh kurang dan/atau lebih.
+3. Pada awal permainan, pemain dan lawan masing-masing memiliki _**100 Poin Kehidupan**_.
+4. Urutan giliran pertama dan kedua akan ditentukan dengan _**Melempar Koin**_.
+5. Terdapat beberapa Fase pada permainan ini, di antaranya:
+
+   - FASE KOIN: Fase ini digunakan untuk memutuskan pemain mana yang akan mendapatkan giliran pertama dengan cara melempar koin. Fase ini tidak akan diulang untuk giliran berikutnya.
+   - FASE STRATEGI: _**Pemain**_ yang sedang berada pada giliran ini dapat mengaktifkan kartu bertipe _**Penyerangan**_ dan _**Campuran**_.
+   - FASE BERTAHAN: _**Lawan**_ yang sedang berada pada giliran ini dapat mengaktifkan kartu bertipe _**Pertahanan**_ dan _**Campuran**_.
+   - FASE MENYERANG: Pada giliran ini **Pemain** dapat menggunakan _**Zona Milik Pemain**_ untuk menyerang _**Zona Milik Lawan**_.
+
+6. Sistem menyerang zona lawan adalah sebagai berikut:
+
+    - Pemain dapat memilih salah satu zona miliknya _**(Zona A/Zona B)**_ untuk menyerang zona lawan _**(Zona A/Zona B)**_.
+    - Jika _**Zona A**_ pemain yang memiliki _**1 Kekuatan**_ menyerang _**Zona B**_ lawan yang memiliki _**2 Kekuatan**_, maka lawan akan menerima _**1 Kerusakan**_ sehingga mengurangi _**1 Poin Kehidupan**_-nya. Lantas untuk zona yang sebelumnya diserang akan menambah _**1 Kekuatan**_, sehingga yang awalnya _**2**_ menjadi _**3**_.
+    - Jika suatu zona memiliki _**5 Kekuatan**_, maka zona tersebut akan langsung hancur.
+    - Jika suatu zona berakhir dengan memiliki kekuatan di atas _**5**_, maka kekuatan dari zona tersebut akan dikurangi 5. Contohnya _**7 Kekuatan**_ akan menjadi _**2 Kekuatan**_, dll dsb.
+
+
+
+################################## UPCOMING/ON PROGRESS
+
+
+
+
+9. Ketika hanya ada satu zona yang bertahan di arena dan zona tersebut memiliki power genap (empat atau dua), maka zona tersebut dapat membelah dirinya, memberikan setengah powernya kepada zona di sebelahnya yang telah hancur.
+10. Terdapat tiga jenis kartu dalam permainan ini, yaitu kartu Penyerang, Bertahan, dan Hybrid.
+11. Terdapat dua Fase dalam suatu giliran, yaitu fase Strategi dan fase Penyerangan.
+12. Kartu tipe penyerang hanya bisa diaktifkan pada giliran pemain dalam fase strategi pemain.
+13. Kartu tipe bertahan hanya bisa diaktifkan pada giliran lawan dalam fase penyerangan lawan.
+14. Kartu tipe hybrid bisa diaktifkan pada giliran pemain dalam fase strategi dan giliran lawan dalam fase penyerangan.
+15. Setiap kartu memiliki Biaya Pengaktifan masing-masing, di mana biaya tersebut akan mengurangi poin kehidupan pemain yang menggunakannya.
+16. Setiap kartu membutuhkan Poin Aktivasi agar dapat diaktifkan.
+17. Poin aktivasi secara otomatis akan bertambah 1 setiap kali masuk ke giliran pemain. Jumlah maksimal tumpukan Poin aktivasi adalah lima.
+18. Pemain akan mendapatkan 1 poin aktivasi setiap kali mengaktifkan kartu dengan tier A dan/atau tier S, dengan maksimal poin yang bisa diterima adalah 3 poin aktivasi sepanjang permainan.
+19. Pemain hanya dapat membawa maksimal satu kartu Tier S, empat kartu Tier A, dan tidak ada batasan untuk kartu Tier B dan C.
+20. Jika kedua zona pemain hancur, pemain memiliki opsi untuk mengorbankan 20 poin kehidupan untuk membangkitkan kembali satu zona pemain. Jika pemain tidak memilih opsi tersebut, maka pemain akan langsung dinyatakan kalah.
+21. Jika poin kehidupan pemain berkurang hingga menjadi nol, maka pemain akan langsung dinyatakan kalah.
 
 ---
 
