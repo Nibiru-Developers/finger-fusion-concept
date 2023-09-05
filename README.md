@@ -10,51 +10,36 @@ Finger Fusion merupakan sebuah permainan papan arena strategi yang sedang dikemb
 
 ## Tata Cara dan Aturan Permainan:
 
-1. Pada awal permainan, pemain dan lawan memiliki _**2 Zona**_, di sebelah _**Kiri (Zona A)**_ dan di sebelah _**Kanan (Zona B)**_ dengan masing-masing memiliki _**1 Kekuatan**_.
+1. Pada awal permainan, pemain dan lawan akan memiliki _**2 Zona**_, di sebelah _**Kiri (Zona A)**_ dan di sebelah _**Kanan (Zona B)**_ dengan masing-masing memiliki _**1 Kekuatan**_.
 2. Pada awal permainan, pemain dan lawan masing-masing mambawa _**10 Kartu**_ di tangan, tidak boleh kurang dan/atau lebih.
 3. Pada awal permainan, pemain dan lawan masing-masing memiliki _**100 Poin Kehidupan**_.
 4. Urutan giliran pertama dan kedua akan ditentukan dengan _**Melempar Koin**_.
-5. Terdapat beberapa Fase pada permainan ini, di antaranya:
+5. Berikut adalah informasi penting tentang kartu:
+
+   - Terdapat _**4 Jenis**_ tingkatan kartu, yaitu _**Tingkat C**_, _**Tingkat B**_, _**Tingkat A**_, dan _**Tingkat S**_.
+   - Terdapat _**3 Jenis**_ tipe kartu, yaitu _**Penyerangan**_, _**Pertahanan**_, dan _**Campuran**_.
+   - Pemain harus membayar sejumlah _**Poin Kehidupan**_ untuk dapat mengaktifkan suatu kartu. Jumlah yang harus dibayar tergantung pada kartu yang hendak diaktifkan.
+   - Sejumlah _**Poin Aktivasi**_ dibutuhkan untuk mengaktifkan suatu kartu. _**Poin Aktivasi**_ sendiri akan secara otomatis bertambah _**1**_ setiap kali masuk ke giliran pemain. Jumlah maksimal tumpukan _**Poin Aktivasi**_ adalah _**5**_.
+   - Pemain akan mendapatkan _**1 Poin Aktivasi**_ setiap kali mengaktifkan kartu dengan _**Tingkat A**_ dan/atau _**Tingkat S**_, dengan maksimal _**3 Poin Aktivasi**_ yang dapat diterima sepanjang permainan.
+   - Pemain hanya dapat membawa maksimal _**1 Kartu Tingkat S**_, _**4 Kartu Tingkat A**_, dan tidak ada batasan untuk tingkat lain di bawahnya.
+
+6. Terdapat beberapa Fase pada permainan ini, di antaranya:
 
    - FASE KOIN: Fase ini digunakan untuk memutuskan pemain mana yang akan mendapatkan giliran pertama dengan cara melempar koin. Fase ini tidak akan diulang untuk giliran berikutnya.
    - FASE STRATEGI: _**Pemain**_ yang sedang berada pada giliran ini dapat mengaktifkan kartu bertipe _**Penyerangan**_ dan _**Campuran**_.
    - FASE BERTAHAN: _**Lawan**_ yang sedang berada pada giliran ini dapat mengaktifkan kartu bertipe _**Pertahanan**_ dan _**Campuran**_.
    - FASE MENYERANG: Pada giliran ini _**Pemain**_ dapat menggunakan _**Zona Milik Pemain**_ untuk menyerang _**Zona Milik Lawan**_.
 
-6. Sistem menyerang zona lawan adalah sebagai berikut:
+7. Sistem menyerang zona lawan adalah sebagai berikut:
 
    - Pemain dapat memilih salah satu zona miliknya _**(Zona A/Zona B)**_ untuk menyerang zona lawan _**(Zona A/Zona B)**_.
    - Jika _**Zona A**_ pemain yang memiliki _**1 Kekuatan**_ menyerang _**Zona B**_ lawan yang memiliki _**2 Kekuatan**_, maka lawan akan menerima _**1 Kerusakan**_ sehingga mengurangi _**1 Poin Kehidupan**_-nya. Lantas untuk zona yang sebelumnya diserang akan menambah _**1 Kekuatan**_, sehingga yang awalnya _**2**_ menjadi _**3**_.
    - Jika suatu zona memiliki _**5 Kekuatan**_, maka zona tersebut akan langsung hancur.
    - Jika suatu zona berakhir dengan memiliki kekuatan di atas _**5**_, maka kekuatan dari zona tersebut akan dikurangi 5. Contohnya _**7 Kekuatan**_ akan menjadi _**2 Kekuatan**_, dll dsb.
 
-7. Ketika hanya ada _**1 Zona**_ yang bertahan di arena dan zona tersebut memiliki _**Kekuatan Genap (2/4)**_, maka pemain dapat membelah kekuatan zona tersebut untuk memberikannya pada zona yang sebelumnya telah hancur.
-8. Beberapa informasi penting tentang kartu adalah sebagai berikut:
-   - Terdapat _**4 Jenis**_ tingkatan kartu, yaitu _**Tingkat C**_, _**Tingkat B**_, _**Tingkat A**_, dan _**Tingkat S**_.
-   - Pemain harus membayar sejumlah _**Poin Kehidupan**_ untuk dapat mengaktifkan suatu kartu. Jumlah yang harus dibayar tergantung pada kartu yang hendak diaktifkan.
-   - Sejumlah _**Poin Aktivasi**_ dibutuhkan untuk mengaktifkan suatu kartu tertentu. _**Poin Aktivasi**_ sendiri akan secara otomatis bertambah 1 setiap kali masuk ke giliran pemain. Jumlah maksimal tumpukan _**Poin aktivasi**_ adalah _**5**_.
-   - Pemain akan mendapatkan _**1 Poin Aktivasi**_ setiap kali mengaktifkan kartu dengan _**Tingkat A**_ dan/atau _**Tingkat S**_, dengan maksimal _**3 Poin Aktivasi**_ yang dapat diterima sepanjang permainan.
-   - Pemain hanya dapat membawa maksimal _**1 Kartu Tingkat S**_, _**4 Kartu Tingkat A**_, dan tidak ada batasan untuk tingkat lain di bawahnya.
+8. Ketika hanya ada _**1 Zona**_ yang bertahan di arena dan zona tersebut memiliki _**Kekuatan Genap (2/4)**_, maka pemain dapat membelah kekuatan zona tersebut untuk memberikannya pada zona yang sebelumnya telah hancur.
 9. Jika kedua zona pemain hancur, pemain akan mendapatkan opsi untuk mengorbankan _**20 Poin Kehidupan**_ dan akan membangkitkan kembali salah satu zona yang telah hancur. Jika pemain tidak memilih opsi tersebut, maka pemain akan langsung dinyatakan kalah.
 10. Jika poin kehidupan pemain berkurang hingga menjadi _**0**_, maka pemain akan langsung dinyatakan kalah.
-
----
-
-################################## UPCOMING/ON PROGRESS
-
-## Beberapa Hal Penting:
-
-**Zona**:
-Zona adalah dua objek yang terletak di sebelah kiri (A) dan kanan (B) arena setiap pemain, termasuk pemain lawan. Setiap zona memiliki power yang diwakili oleh sebuah nilai, yang pada awal permainan memiliki nilai awal satu. Ketika power suatu zona mencapai lima, zona tersebut akan hancur. Pemain yang kedua zonanya telah hancur akan langsung dinyatakan kalah.
-
-**Poin Kehidupan**:
-Poin Kehidupan merupakan salah satu faktor kunci dalam menentukan kemenangan. Apabila poin kehidupan pemain mencapai nol, pemain tersebut akan mengalami kekalahan. Pada awal permainan, poin kehidupan pemain dan lawan setara, yaitu seratus. Poin kehidupan dapat berkurang melalui serangan pada zona atau melalui efek khusus dari kartu tertentu.
-
-**Kartu**:
-Kartu merupakan hal yang sangat penting dalam permainan ini. Setiap kartu memiliki efek unik yang berbeda. Dengan menggunakan efek kartu yang tepat pada saat yang tepat, situasi permainan dapat berubah dengan cepat. Setiap pemain dapat membawa hingga sepuluh kartu dalam setiap permainan.
-
-**Poin Aktivasi**:
-Poin Aktivasi merupakan poin yang digunakan untuk mengaktifkan kartu-kartu tertentu. Setiap kali giliran pemain dimulai, secara otomatis pemain akan mendapatkan 1 Poin Aktivasi. Jumlah Poin Aktivasi yang diperlukan untuk mengaktifkan sebuah kartu bergantung pada tier kartu yang akan diaktifkan tersebut. Jumlah Poin Aktivasi yang dapat ditumpuk adalah lima.
 
 ---
 
@@ -102,7 +87,7 @@ Poin Aktivasi merupakan poin yang digunakan untuk mengaktifkan kartu-kartu terte
 
 ---
 
-## Biaya Kartu:
+## Biaya Poin Kehidupan Untuk Aktivasi Kartu:
 
 - 0: Dimiliki oleh kartu dengan efek yang sangat kuat. Hanya dan sudah pasti dimiliki oleh kartu dengan Tier S.
 - 1 - 2: Dimiliki oleh kartu dengan efek yang tidak terlalu kuat dan terbilang biasa saja. Biasanya kartu Tier C.
